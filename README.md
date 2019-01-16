@@ -18,8 +18,8 @@ File name                            | File description
 ### How to use this repository. 
 - Install `virtualbox` by following this [instructions](https://www.virtualbox.org/wiki/Downloads).
 - Install `vagrant` by following this [instructions](https://www.vagrantup.com/docs/installation/).
-- Clone the repository to your local computer: `git clone git@github.com:nikcbg/docker_nginx.git`.
-- Go to the cloned repo on your computer: `cd docker_nginx`.
+- Clone the repository to your local computer: `git clone git@github.com:nikcbg/kitchen_docker_nginx.git`.
+- Go to the cloned repo on your computer: `cd kitchen_docker_nginx`.
 - After that execute the commands in the table below.
 
 Command execution                    | Command outcome
